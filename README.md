@@ -11,6 +11,6 @@
 ##
 
 <div> 
-<a href="https://instagram.com/tiosamdc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/tiosam.dc" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
